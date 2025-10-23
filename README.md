@@ -1,59 +1,42 @@
-# 🌐 Animated Portfolio Website
+🌐 Animated Portfolio Website
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **27K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
-
-## 🚀 Live Demo
-
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
-
-## 🛠️ Tech Stack
-
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
-
-## 📁 Features
-
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+A sleek, responsive, and fully animated portfolio website built with React.js and Tailwind CSS — designed to showcase your projects, skills, and achievements in a modern and elegant way.
 
 
-## 🧑‍💻 How to Use
+🚀 Live Demo
 
-### 1. Clone the Repo
+🔗 View Live Portfolio
 
-```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
+🛠️ Tech Stack
 
-### 2. Install Dependencies
+⚛️ React.js – Frontend framework
 
-```bash
+🎨 Tailwind CSS – Styling and responsive design
+
+💾 Vercel – Deployment platform
+
+📁 Features
+
+🌈 Fully responsive for all screen sizes (Mobile, Tablet, Desktop)
+
+✨ Smooth scroll and modern animation effects
+
+🧩 Modular React components for easy maintenance
+
+🎯 Simple customization using Tailwind utility classes
+
+👨‍💻 Professional sections — About, Skills, Projects, Contact, and more
+
+🧑‍💻 Getting Started
+1. Clone the Repository
+git clone 
+cd
+
+2. Install Dependencies
 npm install
-```
 
-### 3. Run the App
-
-```bash
+3. Run the App
 npm start
-```
 
-### 4. Build for Production
-
-```bash
+4. Build for Production
 npm run build
-```
-
-## 📹 YouTube Tutorial
-
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 27K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
-
-## 🌟 Credits
-
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
