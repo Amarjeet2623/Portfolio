@@ -3,9 +3,9 @@
 A sleek, responsive, and fully animated portfolio website built with React.js and Tailwind CSS — designed to showcase your projects, skills, and achievements in a modern and elegant way.
 
 
-🚀 Live Demo
+🚀 Live Demo 
 
-🔗 View Live Portfolio
+[🔗 View Live Portfolio](https://portfolio-amarjeet.vercel.app/)
 
 🛠️ Tech Stack
 
